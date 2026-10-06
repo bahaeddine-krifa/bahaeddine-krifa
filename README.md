@@ -158,7 +158,7 @@ An augmented reality app that recognizes street-sign plaques through the camera 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bahaeddinekrifa)
 - 📧 [bahaeddinekrifa@gmail.com](mailto:bahaeddinekrifa@gmail.com)
-- 📄 CV: [English](https://github.com/bahaeddine-krifa/cv-bahaeddine/raw/main/build/Bahaeddine_Krifa_CV_EN.pdf) · [Français](https://github.com/bahaeddine-krifa/cv-bahaeddine/raw/main/build/Bahaeddine_Krifa_CV_FR.pdf)
+- 📄 CV: [English](https://github.com/bahaeddine-krifa/CV-BahaeddineKRIFA/blob/master/Bahaeddine_Krifa_CV_EN.pdf) · [Français](https://github.com/bahaeddine-krifa/CV-BahaeddineKRIFA/blob/master/Bahaeddine_Krifa_CV_FR.pdf)
 - 📍 Sousse, Tunisia · +216 50 991 102
 
 ---
