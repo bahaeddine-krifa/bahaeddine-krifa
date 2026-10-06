@@ -9,8 +9,8 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/bahaeddinekrifa"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-bahaeddinekrifa-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <a href="mailto:bahaeddinekrifa@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-bahaeddinekrifa@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/bahaeddine-krifa/cv-bahaeddine/raw/main/build/Bahaeddine_Krifa_CV_EN.pdf"><img alt="CV (EN)" src="https://img.shields.io/badge/CV-English-181717?style=flat-square&logo=readme&logoColor=white"></a>
-  <a href="https://github.com/bahaeddine-krifa/cv-bahaeddine/raw/main/build/Bahaeddine_Krifa_CV_FR.pdf"><img alt="CV (FR)" src="https://img.shields.io/badge/CV-Fran%C3%A7ais-181717?style=flat-square&logo=readme&logoColor=white"></a>
+  <a href="https://github.com/bahaeddine-krifa/CV-BahaeddineKRIFA/blob/master/Bahaeddine_Krifa_CV_EN.pdf"><img alt="CV (EN)" src="https://img.shields.io/badge/CV-English-181717?style=flat-square&logo=readme&logoColor=white"></a>
+  <a href="https://github.com/bahaeddine-krifa/CV-BahaeddineKRIFA/blob/master/Bahaeddine_Krifa_CV_FR.pdf"><img alt="CV (FR)" src="https://img.shields.io/badge/CV-Fran%C3%A7ais-181717?style=flat-square&logo=readme&logoColor=white"></a>
 </p>
 
 > [!NOTE]
